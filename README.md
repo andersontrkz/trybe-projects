@@ -18,16 +18,15 @@
 All projects developed as a student at Trybe
 
 This repository contains all the projects developed as a student at [Trybe](https://www.betrybe.com/). <br>
-The folders then divided into *modules*. <br>
-A module is formed by several * blocks *, which determine the studied content. <br>
-Each block has the respective * developed projects * <br>
+The folders then divided into ***modules***. <br>
+A module is formed by several ***blocks***, which determine the studied content. <br>
+Each block has the respective ***developed projects*** <br>
 
-The Trybe program has over ** 1,500 hours ** of face-to-face and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies and social skills.
+The Trybe program has over ***1,500 hours*** of face-to-face and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies and social skills.
 
 See below the list of developed projects, segmented by modules.
 
-Note that you can also click on the interactive link * more details * to view details of the module or requirement, such as * project requirements * or *
-final result image *
+Note that you can also click on the interactive link * more details * to view details of the module or requirement, such as ***project requirements*** or ***final result image***.
 
 ---
 # :books: Modules
@@ -36,11 +35,11 @@ final result image *
 <details>
   <summary>🔎 Module details</summary>
 
-  #### 📗 Block 01: Introduction - Unix & Shell
+    #### 📗 Block 01: Introduction - Unix & Shell
 
-  #### 📗 Block 02: Git, GitHub, Internet
+    #### 📗 Block 02: Git, GitHub, Internet
 
-  #### 📗 Block 03: Introduction - HTML & CSS
+    #### 📗 Block 03: Introduction - HTML & CSS
   - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
