@@ -53,8 +53,9 @@ final result image *
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
       - HTML5 <br>
+  -   [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
       - CSS3 <br>
-- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+
     </details>
     <details>
       <summary>📝 Requirements</summary>
