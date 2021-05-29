@@ -18,7 +18,7 @@
 All projects developed as a student at Trybe
 
 This repository contains all the projects developed as a student at [Trybe](https://www.betrybe.com/). <br>
-The folders then divided into * modules *. <br>
+The folders then divided into *modules*. <br>
 A module is formed by several * blocks *, which determine the studied content. <br>
 Each block has the respective * developed projects * <br>
 
