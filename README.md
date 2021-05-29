@@ -35,11 +35,11 @@ Note that you can also click on the interactive link * more details * to view de
 <details>
   <summary>🔎 Module details</summary>
 
-    #### 📗 Block 01: Introduction - Unix & Shell
+  #### 📗 Block 01: Introduction - Unix & Shell
 
-    #### 📗 Block 02: Git, GitHub, Internet
+  #### 📗 Block 02: Git, GitHub, Internet
 
-    #### 📗 Block 03: Introduction - HTML & CSS
+  #### 📗 Block 03: Introduction - HTML & CSS
   - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
