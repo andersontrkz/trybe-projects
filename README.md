@@ -53,13 +53,21 @@ final result image *
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
       - HTML5 <br>
-  -   [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
       - CSS3 <br>
-
     </details>
     <details>
       <summary>📝 Requirements</summary>
       The following requirements were followed to complete the project: <br>
+       1. Add a specific background color to the page <br>
+       2. Add a top bar with a title <br>
+       3. Add a photo of yourself to the page <br>
+       4. Add a list of lessons learned to the page <br>
+       5. Create a list of lessons you still want to learn for the page <br>
+       6. Add a footer to the page <br>
+       7. Insert at least one external link on the page <br>
+       8. Create an article about your learning <br>
+       9. Create a section that tells a passage about your learning <br>
+       10. Apply HTML elements according to the sense and purpose of each one <br>
     </details>
     <details>
       <summary>📷 Image</summary>
