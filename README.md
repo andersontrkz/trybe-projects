@@ -373,12 +373,12 @@ final result image *
   </details>
 </details>
 
-### 📘 Front-end development
+### 📘 Front-end Development
 <details>
   <summary>🔎 Module details</summary>
 
 #### 📘 Block 11: Introduction to React
-- [x] *[Project - Lessons Learned]()*
+- [x] *[Project - Movie Cards Library]()*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -421,9 +421,54 @@ final result image *
     </details>
   </details>
 
+#### 📘 Block 12: Components with Status, Events and Forms with React
+- [x] *[Project - Movie Cards Library Stateful]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Create a component called <SearchBar /> <br>
+      2 - Render a form inside <SearchBar /> <br>
+      3 - Render a text input inside the form in <SearchBar /> <br>
+      4 - Render a checkbox type input inside the form in <SearchBar /> <br>
+      5 - Render a select inside the form in <SearchBar /> <br>
+      6 - Create a component called <AddMovie /> <br>
+      7 - Render a form inside <AddMovie /> <br>
+      8 - Render a text input inside the form in <AddMovie /> to get the title of the new movie <br>
+      9 - Render a text input inside the form in <AddMovie /> to obtain the subtitle of the new film <br>
+      10 - Render a text input inside the form in <AddMovie /> to get the image path of the new movie <br>
+      11 - Render a textarea inside the form in <AddMovie /> to obtain the synopsis of the new film <br>
+      12 - Render an input of type number inside the form in <AddMovie /> to obtain the evaluation of the new film <br>
+      13 - Render a select form in <AddMovie /> to select the genre of the new movie <br>
+      14 - Render a form button in <AddMovie /> to make use of the data from the new movie, contained in the state of <AddMovie /> <br>
+      15 - Create a component called <MovieLibrary /> <br>
+      16 - Configure the initial state of the <MovieLibrary /> component <br>
+      17 - Render <SearchBar /> inside <MovieLibrary /> <br>
+      18 - Render <MovieList /> within <MovieLibrary /> <br>
+      19 - Render <AddMovie /> inside <MovieLibrary /> <br>
+      20 - Add proptypes to all components <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/tree/anderson-turkiewicz-movie-cards-library-stateful">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/58">Pull Request</a> <br>
+    </details>
+  </details>
 <!-- 
 #### 📘 Block 3: Introduction - HTML & CSS
-- [x] *[Project - Lessons Learned]()*
+- [x] *[Project - Movie Cards Library]()*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
