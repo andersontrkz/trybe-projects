@@ -274,7 +274,40 @@ final result image *
     </details>
   </details>
 
-
+#### 📗 Block 08: Higher Order Functions of JavaScript ES6
+- [x] *[Project - Zoo Functions]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - JavaScript
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Implement the animalsByIds function <br>
+      2 - Implement the animalsOlderThan function <br>
+      3 - Implement the employeeByName function <br>
+      4 - Implement the createEmployee function <br>
+      5 - Implement the isManager function <br>
+      6 - Implement the addEmployee function <br>
+      7 - Implement the animalCount function <br>
+      8 - Implement the entryCalculator function <br>
+      9 - Implement the animalMap function <br>
+      10 - Implement the schedule function <br>
+      11 - Implement the oldestFromFirstSpecies function <br>
+      12 - Implement the increasePrices function <br>
+      13 - Implement the employeeCoverage function <br>
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/tree/anderson-turkiewicz-zoo-functions-project">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-zoo-functions/pull/109">Pull Request</a> <br>
+    </details>
+  </details>
 
 
 
