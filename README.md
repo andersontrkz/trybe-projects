@@ -50,7 +50,7 @@ final result image *
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
-    See the details of this project below: <br>
+    See the details of this project below: <br><br>
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
@@ -79,16 +79,16 @@ final result image *
     <details>
       <summary>🖇 References</summary>
       Here are the links to access the project's reference repository: <br>
-      - <a href="https://github.com/tryber/sd-010-b-project-lessons-learned/tree/anderson-turkiewicz-lessons-learned-project">Branch</a>
-      - <a href="https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98">Pull Request</a>
+      - <a href="https://github.com/tryber/sd-010-b-project-lessons-learned/tree/anderson-turkiewicz-lessons-learned-project">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98">Pull Request</a> <br>
     </details>
   </details>
 
-  #### 📗 Block 04: Introduction to JavaScript and Programming Logic
-- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+#### 📗 Block 04: Introduction to JavaScript and Programming Logic
+- [x] *[Project - Playground Functions]()*
   <details>
     <summary>🔎 Project details</summary>
-    See the details of this project below: <br>
+    See the details of this project below: <br><br>
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
@@ -116,7 +116,84 @@ final result image *
     </details>
   </details>
 
+#### 📗 Block 05: JavaScript: DOM, Events and Web Storage
+- [x] *[Project - Pixels Art]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - HTML5 <br>
+      - CSS3 <br>
+      - JavaScript <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Add the title "Palette of Colors" to the page. <br>
+      2 - Add a palette of four different colors to the page. <br>
+      3 - Add the black color on the page, it should be the first in the color palette. <br>
+      4 - Add a pixel frame, with 25 pixels, to the page. <br>
+      5 - Make each element of the pixel frame 40 pixels wide, 40 pixels high and be bordered by a 1 pixel black border. <br>
+      6 - Define black as the starting color. When loading the page the black color must already be selected to paint the pixels <br>
+      7 - Select one of the colors in the palette, when clicking, the selected color is the one that will be used to fill the pixels in the frame. <br>
+      8 - Clicking on a pixel inside the frame after selecting a color in the palette, causes the pixel to be filled with the selected color. <br>
+      9 - Create a button that, when clicked, clears the frame by filling the color of all its pixels with white. <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-pixels-art/tree/anderson-turkiewicz-project-pixels-art">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-pixels-art/pull/116">Pull Request</a> <br>
+    </details>
+  </details>
 
+  <br>
+
+  - [x] *[Project - To do List]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - HTML5 <br>
+      - CSS3 <br>
+      - JavaScript <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Add to your list or title "My Task List" in a tag <br>
+      2 - directed below the title a small and discreet paragraph with id = "functioning" and with the text "Double-click on an item to mark it as complete" <br>
+      3 - search for an input with the id = "task text" where the user can type the name of the item he wants to add to the list <br>
+      4 - search for an ordered list of tasks with or id = "task list" <br>
+      5 - link a button with id = "create-task" and, when clicking on this button, a new item must be created at the end of the list and the input text must be cleared <br>
+      6 - Order the items in the task list for the creation order <br>
+      7 - Clicking on an item in the list should change the background color of the item to rgb gray (128,128,128) <br>
+      8 - It must not be possible to select more than one element from the list at the same time <br>
+      9 - Double-clicking on an item causes it to be crossed out, indicating that it was complete. It should be possible to undo this action by double-clicking the item <br>
+      10 - browse a button with id = "delete-all" which when clicked should delete all items from the list <br>
+      11 - geographically a button with id = "remove-finished" that when clicked removes only the finished elements from your list <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      * * Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-todo-list/tree/anderson-turkiewicz-todo-list-project">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-todo-list/pull/51">Pull Request</a> <br>
+    </details>
+  </details>
 
 
 
@@ -145,7 +222,7 @@ final result image *
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
-    See the details of this project below: <br>
+    See the details of this project below: <br><br>
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
@@ -158,6 +235,12 @@ final result image *
       <summary>📷 Image</summary>
       The following image is the final result of the project: <br>
       <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="">Branch</a> <br>
+      - <a href="">Pull Request</a> <br>
     </details>
   </details>
 -->
