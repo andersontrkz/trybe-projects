@@ -30,7 +30,7 @@ Note that you can also click on the interactive link * more details * to view de
 final result image *
 
 ---
-# 📚 **Modules**
+# :books: Modules
 
 ### 📗 Web Development Fundamentals 
 <details>
