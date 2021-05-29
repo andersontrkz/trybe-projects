@@ -59,8 +59,7 @@ final result image *
   <details>
     <summary>:hammer: **Image**</summary>
     The following image is the final result of the project:
-    <img alt="project image" src="">
-    *![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)*
+    <img alt="project image" src="https://github.com/andersontrkz/trybe-projects/blob/01.lessons-learned-project/Block%20%2303:%20Lessons%20Learned%20Project/exemplo.png">
   </details>
 
 </details>
