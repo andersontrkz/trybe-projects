@@ -8,7 +8,7 @@
   </a>
 <p>
 
-<p align="center">
+<p align="center">• 
  <a href="#computer-about">Sobre</a> •
  <a href="#books-modules">Modules</a> •
 </p>
