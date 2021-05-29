@@ -42,9 +42,9 @@ final result image *
 <details>
   <summary>🔎 Module details</summary>
 
-  #### 📖 Block 1: Introduction - Unix & Shell
-  #### 📖 Block 2: Git, GitHub, Internet
-  #### 📖 Block 3: Introduction - HTML & CSS
+  #### 📗 Block 1: Introduction - Unix & Shell
+  #### 📗 Block 2: Git, GitHub, Internet
+  #### 📗 Block 3: Introduction - HTML & CSS
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
@@ -54,6 +54,7 @@ final result image *
       The following tools were used in the construction of the project: <br>
       - HTML5 <br>
       - CSS3 <br>
+- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
     </details>
     <details>
       <summary>📝 Requirements</summary>
