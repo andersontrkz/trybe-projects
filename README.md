@@ -243,7 +243,36 @@ final result image *
     </details>
   </details>
 
-
+#### 📗 Block 07: Introduction to JavaScript ES6 and Unit Testing
+- [x] *[Project - JavaScript Unit Tests]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - JavaScript <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      Implement function average <br>
+      Implement the test cases for the numbers function <br>
+      Implement the vqv function <br>
+      Implement the test cases for the circle function <br>
+      Implement the createStudent function <br>
+      Implement the test cases for the productDetails function <br>
+      Implement the objCalculator function <br>
+      Implement the myCounter function <br>
+      Implement the test cases and the createMenu function <br>
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/tree/anderson-turkiewicz-js-unit-tests">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-js-unit-tests/pull/42">Pull Request</a> <br>
+    </details>
+  </details>
 
 
 
