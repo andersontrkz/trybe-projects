@@ -1,0 +1,81 @@
+:root {
+  --color1: #000;
+  --color2: #14213d;
+  --color3: #fca311;
+  --color4: #9e2a2b;
+  --color5: #fff;
+
+  --sizePixel: 40px;
+  --floatPixel: left;
+  --sizeTotal: 210px;
+}
+
+#color-palette {
+  border: black solid 1px;
+  padding: 10px;
+  width: max-content;
+  margin: 0 auto;
+}
+
+.color {
+  border: solid black 1px;
+  width: 40px;
+  height: 40px;
+  display: inline-block;
+}
+
+.color1 {
+  background-color: var(--color1);
+}
+
+.color2 {
+  background-color: var(--color2);
+}
+
+.color3 {
+  background-color: var(--color3);
+}
+
+.color4 {
+  background-color: var(--color4);
+}
+
+.color5 {
+  background-color: var(--color5);
+}
+
+#pixel-board {
+  border: solid black 1px;
+  margin: 0 auto;
+  width: var(--sizeTotal);
+  height: var(--sizeTotal);
+  padding: 16px;
+}
+
+.pixel {
+  border: solid black 1px;
+  width: var(--sizePixel);
+  height: var(--sizePixel);
+  float: var(--floatPixel);
+}
+
+.line {
+  height: var(--sizePixel);
+  float: left;
+}
+
+.options {
+  margin: 0 auto;
+  width: 300px;
+  padding: 16px;
+}
+
+#title {
+  margin: 0 auto 60px;
+  width: 300px;
+  padding: 16px;
+}
+
+body {
+  background-image: url('background-image.jpg');
+}
