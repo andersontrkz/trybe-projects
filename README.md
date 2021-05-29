@@ -76,4 +76,50 @@ final result image *
     </details>
   </details>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
+<!-- 
+#### 📗 Block 3: Introduction - HTML & CSS
+- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+  </details>
+-->
