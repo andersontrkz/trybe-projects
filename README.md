@@ -466,6 +466,108 @@ final result image *
       - <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/58">Pull Request</a> <br>
     </details>
   </details>
+
+#### 📘 Block 13: Life Cycle of Components and React Router
+- [x] *[Project - Movie Cards Library CRUD]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Render BrowserRouter in the App component using routes <br>
+      2 - Make a request to search and show the movie list when MovieList is mounted <br>
+      3 - Insert a link to a movie's details page within MovieCard <br>
+      4 - Make a request to find the movie that should be rendered within Movie Details <br>
+      5 - Make a request to find the movie that will be edited in EditMovie <br>
+      6 - Insert a link on the homepage for NewMovie to create new cards <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/tree/anderson-turkiewicz-project-movie-card-library-crud">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/45">Pull Request</a> <br>
+    </details>
+  </details>
+
+#### 📘 Block 14: Agile Methodologies
+- [x] *[Project - Front-end Online Store]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1. Implement the Mercado Livre api access module <br>
+      2. Create an empty product listing page <br>
+      3. Create the shopping cart page <br>
+      4. List the product categories available via API on the main page <br>
+      5. List the products searched for terms, with summary data, associated with those terms <br>
+      6. Select a category and show only the products in that category <br>
+      7. Redirect to a screen with the detailed view by clicking on a product's summary view <br>
+      8. Add products from the product listing screen <br>
+      9. Add a product to the cart from its detailed display screen <br>
+      10. View the list of products added to the cart on your page and allow manipulation of their quantity <br>
+      11. Rate and comment on a product on its detailed display screen <br>
+      12. Finalize the purchase by viewing a summary of it, filling in your details and choosing the payment method <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-frontend-online-store/tree/main-group-12">Branch</a> <br>
+    </details>
+  </details>
+
+#### 📘 Block 15: Automated Testing with React Testing Library
+- [x] *[Project - React Testing Library]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1. Test the <App.js /> component <br>
+      2. Test the <About.js /> component <br>
+      3. Test the <FavoritePokemons.js /> component <br>
+      4. Test the <NotFound.js /> component <br>
+      5. Test the <Pokedex.js /> component <br>
+      6. Test the <Pokemon.js /> component <br>
+      7. Test the <PokemonDetails.js /> component <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/tree/anderson-turkiewicz-react-testing">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/34">Pull Request</a> <br>
+    </details>
+  </details>
 <!-- 
 #### 📘 Block 3: Introduction - HTML & CSS
 - [x] *[Project - Movie Cards Library]()*
