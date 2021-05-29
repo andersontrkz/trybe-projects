@@ -38,28 +38,32 @@ final result image *
 ---
 # 📚 **Modules**
 
-### :white_check_mark: Introduction - Web Development 
+### 📗 Introduction - Web Development 
 <details>
   <summary>🔎 Module details</summary>
 
-  #### 📗 Block 1: Introduction - Unix & Shell
-  #### 📗 Block 2: Git, GitHub, Internet
-  #### 📗 Block 3: Introduction - HTML & CSS
+  #### 📖 Block 1: Introduction - Unix & Shell
+  #### 📖 Block 2: Git, GitHub, Internet
+  #### 📖 Block 3: Introduction - HTML & CSS
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
-    <summary>🛠 Technology</summary>
-    The following tools were used in the construction of the project: <br>
-    - HTML5 <br>
-    - CSS3 <br>
-  </details>
-  <details>
-    <summary>📝 Requirements</summary>
-    The following requirements were followed to complete the project: <br>
-  </details>
-  <details>
-    <summary>📷 Image</summary>
-    The following image is the final result of the project: <br>
-    <img alt="project image" src="https://github.com/andersontrkz/trybe-projects/blob/01.lessons-learned-project/Block%20%2303:%20Lessons%20Learned%20Project/exemplo.png">
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - HTML5 <br>
+      - CSS3 <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="https://raw.githubusercontent.com/andersontrkz/trybe-projects/01.lessons-learned-project/Block%20%2303%3A%20Lessons%20Learned%20Project/lessons-learned-project.png">
+    </details>
   </details>
 
 </details>
