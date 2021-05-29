@@ -47,7 +47,7 @@ final result image *
   #### 📗 Block 02: Git, GitHub, Internet
 
   #### 📗 Block 03: Introduction - HTML & CSS
-- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+  - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -85,7 +85,7 @@ final result image *
   </details>
 
 #### 📗 Block 04: Introduction to JavaScript and Programming Logic
-- [x] *[Project - Playground Functions]()*
+  - [x] *[Project - Playground Functions]()*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -117,7 +117,7 @@ final result image *
   </details>
 
 #### 📗 Block 05: JavaScript: DOM, Events and Web Storage
-- [x] *[Project - Pixels Art]()*
+  - [x] *[Project - Pixels Art]()*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -195,6 +195,53 @@ final result image *
     </details>
   </details>
 
+#### 📗 Block 06: HTML and CSS: Forms, Flexbox and Responsive
+- [x] *[Project - Facebook Signup]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - HTML5 <br>
+      - CSS3 <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1. Create a blue bar at the top of the page <br>
+      2. Position the Facebook logo in the left corner on the top bar <br>
+      3. Add an authentication form in the right corner of the top bar <br>
+      4. Create a class in CSS <br>
+      5. Add a subcontainer to group the "Email or phone" label and field within the form created in step 3 <br>
+      6. Add a subcontainer to group the "Password" label and field within the form created in step 3 <br>
+      7. Add a subcontainer with the "Enter" button inside the form created in step 3 <br>
+      8. Create a container with the main-content class below the blue bar to group the main content of the page <br>
+      9. Create a subcontainer to place the content on the left side <br>
+      10. Create a subcontainer to place the content on the right <br>
+      11. Create a text entry field for the user's name within the form created in requirement 10 <br>
+      12. Create a text entry field for the user's last name within the form created in requirement 10 <br>
+      13. Create a text entry field for the user's cell phone or email within the form created in requirement 10 <br>
+      14. Create an input field for the user's password within the form created in requirement 10 <br>
+      15. Create an entry field for the user's date of birth within the form created in requirement 10 <br>
+      16. Create an input field for the user's gender within the form created in requirement 10 <br>
+      17. Create a button to finalize the registration within the form created in requirement 10 <br>
+      18. Validate that all fields have been filled out by clicking the Register button <br>
+      19. Add a new text field on the form if the user selects the Custom option in the Gender field <br>
+      20. Replace the content of the container with the right-content class if the form is completely filled out and validated <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/tree/anderson-turkiewicz-facebook-project">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-facebook-signup/pull/98">Pull Request</a> <br>
+    </details>
+  </details>
 
 
 
