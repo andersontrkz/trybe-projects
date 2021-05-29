@@ -287,19 +287,19 @@ final result image *
     <details>
       <summary>📝 Requirements</summary>
       The following requirements were followed to complete the project: <br>
-      1 - Implement the animalsByIds function <br>
-      2 - Implement the animalsOlderThan function <br>
-      3 - Implement the employeeByName function <br>
-      4 - Implement the createEmployee function <br>
-      5 - Implement the isManager function <br>
-      6 - Implement the addEmployee function <br>
-      7 - Implement the animalCount function <br>
-      8 - Implement the entryCalculator function <br>
-      9 - Implement the animalMap function <br>
-      10 - Implement the schedule function <br>
-      11 - Implement the oldestFromFirstSpecies function <br>
-      12 - Implement the increasePrices function <br>
-      13 - Implement the employeeCoverage function <br>
+        1 - Implement the animalsByIds function <br>
+        2 - Implement the animalsOlderThan function <br>
+        3 - Implement the employeeByName function <br>
+        4 - Implement the createEmployee function <br>
+        5 - Implement the isManager function <br>
+        6 - Implement the addEmployee function <br>
+        7 - Implement the animalCount function <br>
+        8 - Implement the entryCalculator function <br>
+        9 - Implement the animalMap function <br>
+        10 - Implement the schedule function <br>
+        11 - Implement the oldestFromFirstSpecies function <br>
+        12 - Implement the increasePrices function <br>
+        13 - Implement the employeeCoverage function <br>
     </details>
     <details>
       <summary>🖇 References</summary>
@@ -309,7 +309,30 @@ final result image *
     </details>
   </details>
 
-
+#### 📗 Block 09: Asynchronous JavaScript and Promises
+- [x] *[Project - Jest]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+        1 - Create tests for an asynchronous function <br>
+        2 - Create a "Mock" in the test / mockFunctions.spec.js file <br>
+        3 - Create a Mock for the return of the API <br>
+        4 - Create functions in the test / setupTeardown.spec.js file <br>
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+        - <a href="https://github.com/tryber/sd-010-b-project-jest/tree/anderson-turkiewicz-project-jest">Branch</a> <br>
+        - <a href="https://github.com/tryber/sd-010-b-project-jest/pull/110">Pull Request</a> <br>
+    </details>
+  </details>
 
 
 
