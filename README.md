@@ -1,4 +1,4 @@
-# trybe-projects
+# Trybe Projects
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/andersontrkz/trybe-projects?style=for-the-badge">
@@ -19,11 +19,11 @@
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
-## :computer: About
+# :computer: About
 
-# All projects developed as a student at Trybe
+All projects developed as a student at Trybe
 
-This repository contains all the projects developed as a student at [Trybe] (https://www.betrybe.com/). <br>
+This repository contains all the projects developed as a student at [Trybe](https://www.betrybe.com/). <br>
 The folders then divided into * modules *. <br>
 A module is formed by several * blocks *, which determine the studied content. <br>
 Each block has the respective * developed projects * <br>
@@ -36,21 +36,18 @@ Note that you can also click on the interactive link * more details * to view de
 final result image *
 
 ---
-### :memo: **Modules**
+# :memo: **Modules**
 
-## Introduction - Web Development :white_check_mark:
-
+### :white_check_mark: Introduction - Web Development 
 <details>
   <summary>Module details</summary>
 
-  ##### Block 1: Introduction - Unix & Shell
-  ##### Block 2: Git, GitHub, Internet
-  ##### Block 3: Introduction - HTML & CSS
+  #### Block 1: Introduction - Unix & Shell
+  #### Block 2: Git, GitHub, Internet
+  #### Block 3: Introduction - HTML & CSS
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
-    <summary>Project details</summary>
-    ---
-    ### :hammer: **Technology**
+    <summary>:hammer: **Technology**</summary>
     The following tools were used in the construction of the project:
     - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
     - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
@@ -59,11 +56,20 @@ final result image *
     - [Nodemon](https://nodemon.io)
     - [Nunjucks](https://mozilla.github.io/nunjucks/)
     - [SQLite](https://www.sqlite.org)
-    ---
-    ## Requirements :white_check_mark:
-    ---
-    ## Imagem :white_check_mark:
-    ---
+  </details>
+  <details>
+    <summary>:hammer: **Requirements**</summary>
+    The following tools were used in the construction of the project:
+  </details>
+  <details>
+    <summary>:hammer: **Image**</summary>
+    The following tools were used in the construction of the project:
+    [x]
+[]
+![]
   </details>
 
 </details>
+[x]
+[]
+![]
