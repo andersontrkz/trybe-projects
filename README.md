@@ -38,7 +38,7 @@ final result image *
 ---
 # 📚 **Modules**
 
-### 📗 Introduction - Web Development 
+### 📗 Web Development Fundamentals 
 <details>
   <summary>🔎 Module details</summary>
 
@@ -371,23 +371,59 @@ final result image *
       - <a href="https://github.com/tryber/sd-010-b-project-jest/pull/110">Pull Request</a> <br>
     </details>
   </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
 </details>
+
+### 📘 Front-end development
+<details>
+  <summary>🔎 Module details</summary>
+
+#### 📘 Block 11: Introduction to React
+- [x] *[Project - Lessons Learned]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - React.js
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Create a <Header /> component <br>
+      2 - Render a text in the <Header /> <br>
+      3 - Create a <MovieList /> component <br>
+      4 - Render <MovieCard /> components within <MovieList /> <br>
+      5 - Pass a key for each rendered <MovieCard /> <br>
+      6 - Create a <MovieCard /> component <br>
+      7 - Render the movie image inside an img tag <br>
+      8 - Render the movie title within an h4 tag <br>
+      9 - Render the subtitle of the movie inside an h5 tag <br>
+      10 - Render the synopsis of the movie inside a p tag <br>
+      11 - Create a <Rating /> component <br>
+      12 - Render a movie's rating within Rating <br>
+      13 - Render the <Rating /> component inside <MovieCard /> <br>
+      14 - Pass the rating attribute as a prop for the <Rating /> component <br>
+      15 - Create a component <App /> <br>
+      16 - Render <MovieList /> inside the <App /> component <br>
+      17 - Add PropTypes to all components <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/tree/anderson-turkiewicz-movie-cards-library">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library/pull/77">Pull Request</a> <br>
+    </details>
+  </details>
+
 <!-- 
-#### 📗 Block 3: Introduction - HTML & CSS
-- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+#### 📘 Block 3: Introduction - HTML & CSS
+- [x] *[Project - Lessons Learned]()*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -411,4 +447,5 @@ final result image *
       - <a href="">Pull Request</a> <br>
     </details>
   </details>
+  📙
 -->
