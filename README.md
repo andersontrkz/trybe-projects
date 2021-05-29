@@ -35,12 +35,12 @@ Note that you can also click on the interactive link * more details * to view de
 <details>
   <summary>🔎 Module details</summary>
 
-  #### 📗 Block 01: Introduction - Unix & Shell
+#### 📗 Block 01: Introduction - Unix & Shell
 
-  #### 📗 Block 02: Git, GitHub, Internet
+#### 📗 Block 02: Git, GitHub, Internet
 
-  #### 📗 Block 03: Introduction - HTML & CSS
-  - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+#### 📗 Block 03: Introduction - HTML & CSS
+- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -78,7 +78,7 @@ Note that you can also click on the interactive link * more details * to view de
   </details>
 
 #### 📗 Block 04: Introduction to JavaScript and Programming Logic
-  - [x] *[Project - Playground Functions]()*
+- [x] *[Project - Playground Functions]()*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -110,7 +110,7 @@ Note that you can also click on the interactive link * more details * to view de
   </details>
 
 #### 📗 Block 05: JavaScript: DOM, Events and Web Storage
-  - [x] *[Project - Pixels Art]()*
+- [x] *[Project - Pixels Art]()*
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
