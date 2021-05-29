@@ -42,9 +42,11 @@ final result image *
 <details>
   <summary>🔎 Module details</summary>
 
-  #### 📗 Block 1: Introduction - Unix & Shell
-  #### 📗 Block 2: Git, GitHub, Internet
-  #### 📗 Block 3: Introduction - HTML & CSS
+  #### 📗 Block 01: Introduction - Unix & Shell
+
+  #### 📗 Block 02: Git, GitHub, Internet
+
+  #### 📗 Block 03: Introduction - HTML & CSS
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
     <summary>🔎 Project details</summary>
@@ -74,9 +76,45 @@ final result image *
       The following image is the final result of the project: <br>
       <img alt="project image" src="https://raw.githubusercontent.com/andersontrkz/trybe-projects/01.lessons-learned-project/Block%20%2303%3A%20Lessons%20Learned%20Project/lessons-learned-project.png">
     </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-lessons-learned/tree/anderson-turkiewicz-lessons-learned-project">Branch</a>
+      - <a href="https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98">Pull Request</a>
+    </details>
   </details>
 
-
+  #### 📗 Block 04: Introduction to JavaScript and Programming Logic
+- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - JavaScript
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Create a function using the operator <br>
+      2 - Create a function that calculates the area of the triangle <br>
+      3 - Create a function that divides the sentence <br>
+      4 - Create a function that uses string concatenation <br>
+      5 - Create a function that calculates the amount of points in football <br>
+      6 - Create a function that calculates the repetition of the largest number <br>
+      7 - Create a Mouse Hunt function <br>
+      8 - Create a FizzBuzz function <br>
+      9 - Create a function that encodes and decodes <br>
+      10 - Create a Technology List function <br>
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-playground-functions/tree/anderson-turkiewicz-project-playground-functions">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-playground-functions/pull/94">Pull Request</a> <br>
+    </details>
+  </details>
 
 
 
