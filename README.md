@@ -36,29 +36,29 @@ Note that you can also click on the interactive link * more details * to view de
 final result image *
 
 ---
-# :memo: **Modules**
+# 📚 **Modules**
 
 ### :white_check_mark: Introduction - Web Development 
 <details>
-  <summary>Module details</summary>
+  <summary>🔎 Module details</summary>
 
-  #### Block 1: Introduction - Unix & Shell
-  #### Block 2: Git, GitHub, Internet
-  #### Block 3: Introduction - HTML & CSS
+  #### 📗 Block 1: Introduction - Unix & Shell
+  #### 📗 Block 2: Git, GitHub, Internet
+  #### 📗 Block 3: Introduction - HTML & CSS
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
-    <summary>:hammer: Technology</summary>
-    The following tools were used in the construction of the project:
+    <summary>🛠 Technology</summary>
+    The following tools were used in the construction of the project: <br>
     - HTML5 <br>
     - CSS3 <br>
   </details>
   <details>
-    <summary>:hammer: Requirements</summary>
-    The following requirements were followed to complete the project:
+    <summary>📝 Requirements</summary>
+    The following requirements were followed to complete the project: <br>
   </details>
   <details>
-    <summary>:hammer: **Image**</summary>
-    The following image is the final result of the project:
+    <summary>📷 Image</summary>
+    The following image is the final result of the project: <br>
     <img alt="project image" src="https://github.com/andersontrkz/trybe-projects/blob/01.lessons-learned-project/Block%20%2303:%20Lessons%20Learned%20Project/exemplo.png">
   </details>
 
