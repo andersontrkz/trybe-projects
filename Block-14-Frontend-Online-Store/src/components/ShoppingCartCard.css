@@ -1,0 +1,53 @@
+.shopping-cart-card {
+  align-items: center;
+  border: black solid 2px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 24px;
+}
+
+.shopping-cart-card-item {
+  margin: 24px;
+}
+
+.card-button {
+  border-radius: 50%;
+  font-weight: 900;
+  height: 4vh;
+  width: 4vh;
+}
+
+.button {
+  align-items: center;
+  display: flex;
+  height: 8vh;
+  justify-content: center;
+  width: 8vh;
+}
+
+.title {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 80vh;
+}
+
+.input {
+  border-radius: 50%;
+  height: 6vh;
+  text-align: center;
+  width: 6vh;
+}
+
+.price {
+  align-items: center;
+  display: flex;
+  height: 6vh;
+  justify-content: center;
+  width: 16vh;
+}
+
+.image {
+  max-width: 70px;
+}
