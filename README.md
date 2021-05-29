@@ -255,16 +255,16 @@ final result image *
     </details>
     <details>
       <summary>📝 Requirements</summary>
-      The following requirements were followed to complete the project: <br>
-      Implement function average <br>
-      Implement the test cases for the numbers function <br>
-      Implement the vqv function <br>
-      Implement the test cases for the circle function <br>
-      Implement the createStudent function <br>
-      Implement the test cases for the productDetails function <br>
-      Implement the objCalculator function <br>
-      Implement the myCounter function <br>
-      Implement the test cases and the createMenu function <br>
+      1. The following requirements were followed to complete the project: <br>
+      2. Implement function average <br>
+      3. Implement the test cases for the numbers function <br>
+      4. Implement the vqv function <br>
+      5. Implement the test cases for the circle function <br>
+      6. Implement the createStudent function <br>
+      7. Implement the test cases for the productDetails function <br>
+      8. Implement the objCalculator function <br>
+      9. Implement the myCounter function <br>
+      10. Implement the test cases and the createMenu function <br>
     </details>
     <details>
       <summary>🖇 References</summary>
@@ -287,19 +287,19 @@ final result image *
     <details>
       <summary>📝 Requirements</summary>
       The following requirements were followed to complete the project: <br>
-        1 - Implement the animalsByIds function <br>
-        2 - Implement the animalsOlderThan function <br>
-        3 - Implement the employeeByName function <br>
-        4 - Implement the createEmployee function <br>
-        5 - Implement the isManager function <br>
-        6 - Implement the addEmployee function <br>
-        7 - Implement the animalCount function <br>
-        8 - Implement the entryCalculator function <br>
-        9 - Implement the animalMap function <br>
-        10 - Implement the schedule function <br>
-        11 - Implement the oldestFromFirstSpecies function <br>
-        12 - Implement the increasePrices function <br>
-        13 - Implement the employeeCoverage function <br>
+      1 - Implement the animalsByIds function <br>
+      2 - Implement the animalsOlderThan function <br>
+      3 - Implement the employeeByName function <br>
+      4 - Implement the createEmployee function <br>
+      5 - Implement the isManager function <br>
+      6 - Implement the addEmployee function <br>
+      7 - Implement the animalCount function <br>
+      8 - Implement the entryCalculator function <br>
+      9 - Implement the animalMap function <br>
+      10 - Implement the schedule function <br>
+      11 - Implement the oldestFromFirstSpecies function <br>
+      12 - Implement the increasePrices function <br>
+      13 - Implement the employeeCoverage function <br>
     </details>
     <details>
       <summary>🖇 References</summary>
@@ -310,6 +310,42 @@ final result image *
   </details>
 
 #### 📗 Block 09: Asynchronous JavaScript and Promises
+- [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - HTML5
+      - CSS3
+      - JavaScript
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Create product listing <br>
+      2 - Add the product to the shopping cart <br>
+      3 - Remove the item from the shopping cart by clicking on it <br>
+      4 - Load the shopping cart through LocalStorage when starting the page <br>
+      5 - Add the total value of the shopping cart items asynchronously <br>
+      6 - Create a button to clear shopping cart <br>
+      7 - Add a "loading" text during an API request <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/tree/anderson-turkiewicz-project-shopping-cart">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-shopping-cart/pull/25">Pull Request</a> <br>
+    </details>
+  </details>
+
+#### 📗 Block 10: Automated tests with Jest
 - [x] *[Project - Jest]()*
   <details>
     <summary>🔎 Project details</summary>
@@ -317,24 +353,24 @@ final result image *
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
+      - JavaScript
+      - Jest
     </details>
     <details>
       <summary>📝 Requirements</summary>
       The following requirements were followed to complete the project: <br>
-        1 - Create tests for an asynchronous function <br>
-        2 - Create a "Mock" in the test / mockFunctions.spec.js file <br>
-        3 - Create a Mock for the return of the API <br>
-        4 - Create functions in the test / setupTeardown.spec.js file <br>
+      1 - Create tests for an asynchronous function <br>
+      2 - Create a "Mock" in the test / mockFunctions.spec.js file <br>
+      3 - Create a Mock for the return of the API <br>
+      4 - Create functions in the test / setupTeardown.spec.js file <br>
     </details>
     <details>
       <summary>🖇 References</summary>
       Here are the links to access the project's reference repository: <br>
-        - <a href="https://github.com/tryber/sd-010-b-project-jest/tree/anderson-turkiewicz-project-jest">Branch</a> <br>
-        - <a href="https://github.com/tryber/sd-010-b-project-jest/pull/110">Pull Request</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-jest/tree/anderson-turkiewicz-project-jest">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-jest/pull/110">Pull Request</a> <br>
     </details>
   </details>
-
-
 
 
 
