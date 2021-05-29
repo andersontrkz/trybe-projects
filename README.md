@@ -422,6 +422,7 @@ Note that you can also click on the interactive link * more details * to view de
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
+      - React.js
     </details>
     <details>
       <summary>📝 Requirements</summary>
@@ -468,6 +469,7 @@ Note that you can also click on the interactive link * more details * to view de
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
+      - React.js
     </details>
     <details>
       <summary>📝 Requirements</summary>
@@ -500,6 +502,7 @@ Note that you can also click on the interactive link * more details * to view de
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
+      - React.js
     </details>
     <details>
       <summary>📝 Requirements</summary>
@@ -534,6 +537,8 @@ Note that you can also click on the interactive link * more details * to view de
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
+    - Rect.js
+    - React Testing Library
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
