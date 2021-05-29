@@ -9,8 +9,8 @@
 <p>
 
 <p align="center">
- <a href="#computer-sobre">Sobre</a> •
- <a href="📚">Modules</a> •
+ <a href="#computer-about">Sobre</a> •
+ <a href="#books-modules">Modules</a> •
 </p>
 
 # :computer: About
