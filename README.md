@@ -47,29 +47,20 @@ final result image *
   #### Block 3: Introduction - HTML & CSS
 - [x] *[Project - Lessons Learned](https://github.com/tryber/sd-010-b-project-lessons-learned/pull/98)*
   <details>
-    <summary>:hammer: **Technology**</summary>
+    <summary>:hammer: Technology</summary>
     The following tools were used in the construction of the project:
-    - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-    - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-    - [Node.js](https://nodejs.org/pt-br/)
-    - [Express](https://expressjs.com/pt-br/)
-    - [Nodemon](https://nodemon.io)
-    - [Nunjucks](https://mozilla.github.io/nunjucks/)
-    - [SQLite](https://www.sqlite.org)
+    - HTML5 <br>
+    - CSS3 <br>
   </details>
   <details>
-    <summary>:hammer: **Requirements**</summary>
-    The following tools were used in the construction of the project:
+    <summary>:hammer: Requirements</summary>
+    The following requirements were followed to complete the project:
   </details>
   <details>
     <summary>:hammer: **Image**</summary>
-    The following tools were used in the construction of the project:
-    [x]
-[]
-![]
+    The following image is the final result of the project:
+    <img alt="project image" src="">
+    *![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)*
   </details>
 
 </details>
-[x]
-[]
-![]
