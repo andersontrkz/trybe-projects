@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media ( prefers-reduced-motion : no-preference ) {
+
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+
+}
+
+.App-header {
+  align-items: center;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.product-card-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.product-card-main {
+  display: flex;
+  justify-content: center;
+}
+
+.product-card {
+  border: solid 1px black;
+  border-radius: 16px;
+  height: 256px;
+  margin-top: 16px;
+  width: 256px;
+}
+
+.product-card h1 {
+  font-size: large;
+  justify-content: center;
+  text-align: center;
+}
+
+.product-card-image {
+  align-items: center;
+  border-radius: 16px;
+  height: 120px;
+  max-height: 120px;
+  max-width: 240px;
+}
+
+.product-card-footer h2 {
+  font-size: large;
+  text-align: center;
+}
+
+.product-details {
+  display: flex;
+}
+
+.product-details section {
+  margin: 16px;
+}
+
+.product-details-left {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 25%;
+}
+
+.product-details-left h1 {
+  text-align: center;
+}
+
+.product-details-right {
+  border-left: black solid 2px;
+  height: 620px;
+}
+
+.product-details-image {
+  border-radius: 16px;
+  max-height: 40vh;
+  width: 40vh;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
