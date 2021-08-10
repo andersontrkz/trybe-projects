@@ -1,0 +1,24 @@
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-bottom: 56px;
+}
+
+.item {
+  display: flex;
+  margin-bottom: 4px;
+  width: 47%;
+}
+
+.card-body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.card-title {
+  align-self: center;
+  margin: 3px;
+}

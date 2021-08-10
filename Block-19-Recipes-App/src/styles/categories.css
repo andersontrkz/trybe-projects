@@ -1,0 +1,19 @@
+.categories-list {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.btn {
+  height: 40px;
+  line-height: 1;
+  margin: 3px;
+  padding: 0;
+  text-align: center;
+  width: 30%;
+}
+

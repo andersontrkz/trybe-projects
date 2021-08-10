@@ -1,0 +1,10 @@
+.footer-menu {
+  background-color: rgb(63, 63, 243);
+  bottom: 0;
+  display: flex;
+  height: 56px;
+  justify-content: space-around;
+  padding: 8px 0;
+  position: fixed;
+  width: 100%;
+}

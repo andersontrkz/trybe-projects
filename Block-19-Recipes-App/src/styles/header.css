@@ -1,0 +1,8 @@
+.header {
+  background-color: rgb(63, 63, 243);
+  height: 56px;
+}
+
+.flex {
+  align-items: center;
+}
