@@ -423,6 +423,7 @@ final result image *
 
 #### 📘 Block 12: Components with Status, Events and Forms with React
 - [x] *[Project - Movie Cards Library Stateful]()*
+  <img src="https://github.com/andersontrkz/trybe-projects/blob/main/Images/12.png">
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
