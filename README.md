@@ -471,6 +471,7 @@ final result image *
 
 #### 📘 Block 13: Component and React Router Lifecycle
 - [x] *[Project - Movie Cards Library CRUD]()*
+ <img src="https://github.com/andersontrkz/trybe-projects/blob/main/Images/13.png">
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -505,6 +506,7 @@ final result image *
 
 #### 📘 Block 14: Agile Methodologies
 - [x] *[Project - Frontend Online Store]()*
+ <img src="https://github.com/andersontrkz/trybe-projects/blob/main/Images/14.png">
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -544,6 +546,7 @@ final result image *
 
 #### 📘 Block 15: Automated testing with React Testing Library
 - [x] *[Project - React Testing Library]()*
+ <img src="https://github.com/andersontrkz/trybe-projects/blob/main/Images/15.png">
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
@@ -579,6 +582,7 @@ final result image *
 
 #### 📘 Block 16: State management with Redux
 - [x] *[Project - Trybe Wallet]()*
+ <img src="https://github.com/andersontrkz/trybe-projects/blob/main/Images/16.png">
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
