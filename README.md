@@ -582,7 +582,7 @@ final result image *
 
 #### 📘 Block 16: State management with Redux
 - [x] *[Project - Trybe Wallet]()*
- <img src="https://github.com/andersontrkz/trybe-projects/blob/main/Images/16.png">
+ <img src="https://github.com/andersontrkz/trybe-projects/blob/main/Images/16.gif">
   <details>
     <summary>🔎 Project details</summary>
     See the details of this project below: <br><br>
