@@ -429,6 +429,7 @@ final result image *
     <details>
       <summary>🛠 Technology</summary>
       The following tools were used in the construction of the project: <br>
+      - React.js
     </details>
     <details>
       <summary>📝 Requirements</summary>
@@ -464,6 +465,291 @@ final result image *
       Here are the links to access the project's reference repository: <br>
       - <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/tree/anderson-turkiewicz-movie-cards-library-stateful">Branch</a> <br>
       - <a href="https://github.com/tryber/sd-010-b-project-movie-cards-library-stateful/pull/58">Pull Request</a> <br>
+    </details>
+  </details>
+
+#### 📘 Block 13: Component and React Router Lifecycle
+- [x] *[Project - Movie Cards Library CRUD]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - React.js
+      - React Router
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Renderize BrowserRouter no componente App usando rotas <br>
+      2 - Faça uma requisição para buscar e mostrar a lista de filmes quando MovieList for montado <br>
+      3 - Insira um link para a página de detalhes de um filme dentro de MovieCard <br>
+      4 - Faça uma requisição para buscar o filme que deverá ser renderizado dentro de Movie Details <br>
+      5 - Realize uma requisição para buscar o filme que será editado em EditMovie <br>
+      6 - Insira um link na página inicial para NewMovie para criar novos cartões <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/tree/anderson-turkiewicz-project-movie-card-library-crud">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-movie-card-library-crud/pull/45">Pull Request</a> <br>
+    </details>
+  </details>
+
+#### 📘 Block 14: Agile Methodologies
+- [x] *[Project - Frontend Online Store]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - React.js
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1. Implemente o módulo de acesso à api do Mercado Livre <br>
+      2. Crie uma página de listagem de produtos vazia <br>
+      3. Crie a página do carrinho de compras <br>
+      4. Liste as categorias de produtos disponíveis via API na página principal <br>
+      5. Liste os produtos buscados por termos, com os dados resumidos, associados a esses termos <br>
+      6. Selecione uma categoria e mostre somente os produtos daquela categoria <br>
+      7. Redirecione para uma tela com a exibição detalhada ao clicar na exibição resumida de um produto <br>
+      8. Adicione produtos a partir da tela de listagem de produtos <br>
+      9. Adicione um produto ao carrinho a partir de sua tela de exibição detalhada <br>
+      10. Visualize a lista de produtos adicionados ao carrinho em sua página e permita a manipulação da sua quantidade <br>
+      11. Avalie e comente acerca de um produto em sua tela de exibição detalhada <br>
+      12. Finalize a compra vendo um resumo dela, preenchendo os seus dados e escolhendo a forma de pagamento <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-frontend-online-store/tree/main-group-12">Branch</a> <br>
+      <!-- - <a href="">Pull Request</a> <br> -->
+    </details>
+  </details>
+
+#### 📘 Block 15: Automated testing with React Testing Library
+- [x] *[Project - React Testing Library]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    - React.js
+    - RTL
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1. Teste o componente <App.js /> <br>
+      2. Teste o componente <About.js /> <br>
+      3. Teste o componente <FavoritePokemons.js /> <br>
+      4. Teste o componente <NotFound.js /> <br>
+      5. Teste o componente <Pokedex.js /> <br>
+      6. Teste o componente <Pokemon.js /> <br>
+      7. Teste o componente <PokemonDetails.js /> <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/tree/anderson-turkiewicz-react-testing">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-react-testing-library/pull/34">Pull Request</a> <br>
+    </details>
+  </details>
+
+#### 📘 Block 16: State management with Redux
+- [x] *[Project - Trybe Wallet]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - React.js
+      - Redux
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1. Crie uma página inicial de login com os seguintes campos e características: <br>
+      2. Realize as seguintes verificações nos campos de email, senha e botão: <br>
+      3. Utilize o Redux para salvar no estado global as informações da pessoa logada <br>
+      4. Crie uma página para sua carteira com as seguintes características:
+      Header (cabeçalho) <br>
+      5. Crie um header para a página de carteira contendo as seguintes características:
+      Formulário de adição de Despesa <br>
+      6. Desenvolva um formulário para adicionar uma despesa contendo as seguintes características: <br>
+      7. Implemente a lógica para preencher as opções do campo "Moedas", buscando as siglas das moedas da API: <br>
+      8. Desenvolva a opção de "Adicionar despesa" na sua tabela de gastos
+      Tabela de Gastos <br>
+      9. Desenvolva uma tabela com os gastos contendo as seguintes características: <br>
+      10. Crie um botão para deletar uma despesa da tabela contendo as seguintes características: <br>
+      Bônus
+      11. Crie um botão para editar uma despesa da tabela contendo as seguintes características: <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-trybewallet/tree/anderson-turkiewicz-project-trybe-wallet">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-trybewallet/pull/48">Pull Request</a> <br>
+    </details>
+  </details>
+
+#### 📘 Block 17: Trivia Game Project
+- [x] *[Project - Trivia Game]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - React.js
+      - Redux
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1. Crie a tela de login, onde a pessoa que joga deve preencher as informações para iniciar um jogo <br>
+      2. Crie o botão de iniciar o jogo <br>
+      3. Crie um botão que leva a pessoa para tela de configuração <br>
+      Tela de jogo <br>
+      4. Crie um header que deve conter as informações da pessoa jogadora <br>
+      5. Crie a página de jogo que deve conter as informações relacionadas à pergunta <br>
+      6. Desenvolva o jogo onde só deve ser possível escolher uma resposta correta por pergunta <br>
+      7. Desenvolva o estilo que, ao clicar em uma resposta, a correta deve ficar verde e as incorretas, vermelhas <br>
+      8. Desenvolva um timer onde a pessoa que joga tem 30 segundos para responder <br>
+      9. Crie o placar com as seguintes características: <br>
+      10. Crie um botão de "próxima" que apareça após a resposta ser dada <br>
+      11. Desenvolva o jogo de forma que a pessoa que joga deve responder 5 perguntas no total <br>
+      Tela de feedback <br>
+      12. Desenvolva o header de feedback que deve conter as informações da pessoa jogadora <br>
+      13. Crie a mensagem de feedback para ser exibida a pessoa usuária <br>
+      14. Exiba as informações relacionadas aos resultados obtidos para a pessoa usuária <br>
+      15. Crie a opção para a pessoa jogadora poder jogar novamente <br>
+      16. Crie a opção para a pessoa jogadora poder visualizar a tela de ranking <br>
+      Tela de ranking <br>
+      17. Crie a tela de ranking <br>
+      18. Crie um botão para ir ao início <br>
+      Extra não avaliativo: Tela de configurações <br>
+      19. Ao mudar o valor do dropdown categoria, apenas perguntas da categoria selecionada devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave category no retorno da API; <br>
+      20. Ao mudar o valor do dropdown dificuldade, apenas perguntas da dificuldade selecionada devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave difficulty no retorno da API; <br>
+      21. Ao mudar o valor do dropdown tipo, apenas perguntas do tipo selecionado devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave type no retorno da API. <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-trivia-react-redux/tree/main-group-19">Branch</a> <br>
+      <!-- - <a href="">Pull Request</a> <br> -->
+    </details>
+  </details>
+
+#### 📘 Block 18: Context API and React Hooks
+- [x] *[Project - StarWarts with Context API and Hooks]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - React.js
+      - Contexct API
+      - Hooks
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      1 - Faça uma requisição para o endpoint /planets da API de Star Wars e preencha uma tabela com os dados retornados, com exceção dos da coluna residents <br>
+      2 - Filtre a tabela através de um texto, inserido num campo de texto, exibindo somente os planetas cujos nomes incluam o texto digitado <br>
+      3 - Crie um filtro para valores numéricos <br>
+      4 - Não utilize filtros repetidos <br>
+      5 - Apague o filtro de valores numéricos e desfaça as filtragens dos dados da tabela ao clicar no ícone de X de um dos filtros <br>
+      Requisitos bônus: <br>
+      6 - Ordene as colunas de forma ascendente ou descendente <br>
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-starwars-planets-search/tree/anderson-turkiewicz-starwars-planets-search-project">Branch</a> <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-starwars-planets-search/pull/13">Pull Request</a> <br>
+    </details>
+  </details>
+
+#### 📘 Block 19: Recipe App Project
+- [x] *[Project - Recipes App]()*
+  <details>
+    <summary>🔎 Project details</summary>
+    See the details of this project below: <br><br>
+    <details>
+      <summary>🛠 Technology</summary>
+      The following tools were used in the construction of the project: <br>
+      - React.js
+      - Contexct API
+      - Hooks
+    </details>
+    <details>
+      <summary>📝 Requirements</summary>
+      The following requirements were followed to complete the project: <br>
+      01 - Testes unitários <br>
+      02 - Tela de Login <br>
+      03 - Header <br>
+      04 - Barra de busca <br>
+      05 - Menu inferior <br>
+      06 - Tela principal de receitas <br>
+      07 - Tela de detalhes de uma receita <br>
+      08 - Tela de receita em progresso <br>
+      09 - Tela de receitas feitas <br>
+      10 - Tela de receitas favoritas <br>
+      11 - Tela de explorar <br>
+      12 - Tela de explorar bebidas ou comidas <br>
+      13 - Tela de explorar ingredientes <br>
+      14 - Tela de explorar por local de origem/area <br>
+      15 - Tela de perfil <br>
+
+    </details>
+    <details>
+      <summary>📷 Image</summary>
+      The following image is the final result of the project: <br>
+      <img alt="project image" src="">
+    </details>
+    <details>
+      <summary>🖇 References</summary>
+      Here are the links to access the project's reference repository: <br>
+      - <a href="https://github.com/tryber/sd-010-b-project-recipes-app/tree/main-group-24">Branch</a> <br>
+      <!-- - <a href="">Pull Request</a> <br> -->
     </details>
   </details>
 <!-- 
